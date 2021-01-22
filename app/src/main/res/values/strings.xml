@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PickNChoose</string>
+    <string-array name="Sort_array">
+        <item>Highest Rated</item>
+        <item>Closest to You</item>
+        <item>Most Reviewed</item>
+    </string-array>
+
+    <string name="title_activity_custom_tab">CustomTab</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="customlist_title">Custom List</string>
+</resources>
